@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RaceCounterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-17T21:55:32" hostname="Madelines-MacBook-Pro.local" time="0.265">
+  <properties/>
+  <testcase name="startCounter_threadsRunning_2008()" classname="RaceCounterTest" time="0.241"/>
+  <testcase name="getCounter_2000Threads_2000()" classname="RaceCounterTest" time="0.021"/>
+  <testcase name="counter_isAtomicInteger()" classname="RaceCounterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
